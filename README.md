@@ -1,5 +1,17 @@
-# CurryMUD
+#Circuit Breaker - a fork of CurryMUD for Lainchan
+This intended as a base to work off of for a collaborative project on lainchan.org to code up a multi user dungeon with a distinctly cyberpunk style. 
 
+Goals include: 
+-a scripting system integrated into the command system of the mud to allow hacking based game play.  
+-Cyberpunk themed dungeons and story arc 
+-Baller Ascii art at every possible juncture of the interface. 
+
+Longer term goals:
+-Refactoring this thing to work of SSH, and adding all the paranoid security hardening that users of an imageboard with a /sec section demand. 
+
+
+
+#Original Curry Mud Readme
 A textual Multi-User Dungeon ("MUD") server in Haskell. (If you are unfamiliar with the term "MUD," please refer to [this Wikipedia article](http://en.wikipedia.org/wiki/MUD).)
 
 CurryMUD is essentially the hobby project and brainchild of a single developer (me). It's been in active development for over 2 years, but is still very much a work in progress.
